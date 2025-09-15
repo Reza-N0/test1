@@ -1,0 +1,20 @@
+[
+  {
+    "title": "python 101",
+    "author": "John Smit",
+    "year": 2020,
+    "pages": 250
+  },
+  {
+    "title": "Data Science",
+    "author": "Jane Doe",
+    "year": 2018,
+    "pages": 320
+  },
+  {
+    "title": "AI Basics",
+    "author": "Max Miller",
+    "year": 2023,
+    "pages": 180000
+  }
+]
